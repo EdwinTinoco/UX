@@ -1,19 +1,38 @@
 Personal Portfolio
 
 Prime Objective:
-Que los clinetes puedan conocer en general acerca de mi persona, mis habilidades asi como 
+That clients can know in general about me, my skills as well as
+My previous work as websites, apps and developments for companies and customers.
+
+Que los clientes puedan conocer en general acerca de mi persona, mis habilidades asi como 
 mis tabajos anteriores como websites, apps y desarrollos para empresas y clientes.
 
 -User Stories
-Normal User:
+Regular User:
+Cesar is a regular user, he wants a website, and is looking for something that convinces him.
+He enters my portfolio by clicking on portfolio to learn about me, read my brief history
+which is at the beginning and then begins to see the images of my developments and for whom
+they were made.
+
 Cesar es un usuario regular, el desea una web site, y esta buscando algo que lo convenza.
 El entra a mi portfolio haciendo clic en portfolio para conocer acerca de mi, lee mi breve historia 
 que se encuentra al principio y despues empieza a ver  las imaganes de mis desarrollos y para quien 
 fueron hechas.
 
 Admin User:
+
+Edwin is admin user, go to the page and first check the messages of customer requests
+and answer your questions.
+
 Edwin es admin user, entra a la pagina y revisa primeramente los mensajes de solicitudes de clientes 
 y responder a sus preguntas.
+
+Secretary User:
+Mariana reviews the messages that the admin responds about quotes and sends the answers to the
+regular users If appointments are required so that the client can meet with me.
+
+Mariana revisa los mensages que el admin respondes acerca de los quotes y envia a las respuestas a los 
+usuarios regulares. Si se requiere agenda citas para que el cliente pueda reunirse conmigo.
 
 
 
