@@ -1,0 +1,21 @@
+Personal Portfolio
+
+Prime Objective:
+Que los clinetes puedan conocer en general acerca de mi persona, mis habilidades asi como 
+mis tabajos anteriores como websites, apps y desarrollos para empresas y clientes.
+
+-User Stories
+Normal User:
+Cesar es un usuario regular, el desea una web site, y esta buscando algo que lo convenza.
+El entra a mi portfolio haciendo clic en portfolio para conocer acerca de mi, lee mi breve historia 
+que se encuentra al principio y despues empieza a ver  las imaganes de mis desarrollos y para quien 
+fueron hechas.
+
+Admin User:
+Edwin es admin user, entra a la pagina y revisa primeramente los mensajes de solicitudes de clientes 
+y responder a sus preguntas.
+
+
+
+
+

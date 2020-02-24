@@ -1,0 +1,45 @@
+FLOWER ONLINE STORE SHOP
+
+PRIME OBJECTIVE: 
+
+
+USERS STORIES
+
+Jared - admin user:
+Jared is an administrator user, his role is to review daily, weekly and monthly sales, and
+Make a report of it. For that, go to the sales menu, and select the category you need.
+Then generate the sales report, to send it to the marketing department.
+Also check the price update, flower arrangements discounts, in the same way
+sending a shipment to the marketing department.
+
+Jared es usuario administrador, su funcion es revisar las ventas diarias, semanales y mensuales, y 
+realizar un reporte de ello.Para eso, va al menu de ventas, y selecciona la categoria que necesita. 
+Despues genera el reporte de las ventas, para enviarlo al departamento de marketing.
+Tambien revisa la actualizacion de precios, descuentos de los arreglos florales, de igual manera
+envia un porte al departmanet de marketing.
+
+David - marketing user:
+David enters the system and reviews the reports sent by the administrator user, based on that,
+Applies discounts and promotions to registered customers.
+
+David entra al sistema y revisa los reportes enviados por el usuario administrador, en base a eso, 
+aplica descuentos y promocones a los clientes registrados. 
+
+Katie - standard user:
+Katie enters the flowers shop page because she wants to buy a floral arrangement. Check the categories
+of types of flowers to see which one you like. Select the Lilis flowers category and start to see which one
+of the arrangements he likes to buy it. since you select one with the price that suits you click
+Add to shopping cart. Keep seeing more products on the page. Since it is decided to pay
+Go to the purchase option. Describe your bank card info and make the purchase.
+
+Katie entra a la pagina de flowers shop porque quiere comprar un arreglo floral. Revisa las categorias
+de tipos de flores para ver cual le gusta. Selecciona la categoria Lilis flowers y empieza a ver cual
+de los arreglos le gusta para comprarlo. ya que seleciona uno con el precio que le acomode hace clic 
+agregar al carrito de compras. Sigue viendo que mas productos hay en la pagina. Ya que se decide pagar
+va a la opcion de compra. Describe la info de su tarjeta bancaria y hace la compra.
+
+
+
+
+
+
